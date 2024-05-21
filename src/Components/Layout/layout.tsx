@@ -28,7 +28,7 @@ export const Layout = (props: LayoutProps) => {
         <div className="p-4">
             <div className="w-full h-20 flex items-center justify-center">
                 <div className="w-[60%] flex items-center justify-between">
-                    <h1 className="text-3xl font-bold">PAT Tích hợp AI phân tích cảm xúc</h1>
+                    <h1 className="text-3xl font-bold">Hệ thống AI nhận diện cảm xúc</h1>
                     <button
                         onClick={handleReset}
                         className="flex items-center justify-between">
